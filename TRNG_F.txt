@@ -1,0 +1,207 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <data/TRNG_F.bit>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Frequency
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  BlockFrequency
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  CumulativeSums
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  CumulativeSums
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Runs
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  LongestRun
+ 82 117  97 108 111  89  99  91 115  91  0.155499    995/1000    Rank
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  FFT
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+994   4   1   0   0   0   0   1   0   0  0.000000 *    9/1000 *  NonOverlappingTemplate
+872  61  22  11   8   6   8   6   5   1  0.000000 *  352/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+992   3   2   1   0   2   0   0   0   0  0.000000 *   21/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+622  90  74  50  47  32  25  20  25  15  0.000000 *  668/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+997   2   0   0   0   0   1   0   0   0  0.000000 *    7/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+754  64  49  39  22  15  22  15   9  11  0.000000 *  459/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+883  40  22  13  11   3  10   5  10   3  0.000000 *  198/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *    6/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+617  97  71  47  41  27  33  22  18  27  0.000000 *  582/1000 *  NonOverlappingTemplate
+999   0   1   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+728  80  62  30  30  20  22  17   6   5  0.000000 *  488/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+998   0   0   2   0   0   0   0   0   0  0.000000 *    3/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+971  10   6   3   3   2   1   2   2   0  0.000000 *   58/1000 *  NonOverlappingTemplate
+913  30  25  12   6   5   4   1   3   1  0.000000 *  180/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    3/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    2/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+877  50  19  14  18   5   5   7   2   3  0.000000 *  275/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+955  12  12   7   0   3   1   2   4   4  0.000000 *   74/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+855  56  26  10  16  13   4  10   3   7  0.000000 *  256/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+977  10   6   4   0   1   1   1   0   0  0.000000 *   62/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    3/1000 *  NonOverlappingTemplate
+993   3   1   2   0   1   0   0   0   0  0.000000 *   44/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+994   4   1   0   1   0   0   0   0   0  0.000000 *   17/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+798  69  50  22  24   9   9   5  10   4  0.000000 *  436/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+756  70  39  27  31  23  24  15   9   6  0.000000 *  432/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+953  15  10   7   4   4   2   5   0   0  0.000000 *  120/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+975   8   6   5   1   2   3   0   0   0  0.000000 *   77/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+689  68  65  55  42  22  15  26  11   7  0.000000 *  470/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+880  40  32  15  10   7   7   4   4   1  0.000000 *  248/1000 *  NonOverlappingTemplate
+997   2   0   0   1   0   0   0   0   0  0.000000 *   13/1000 *  NonOverlappingTemplate
+998   1   0   1   0   0   0   0   0   0  0.000000 *    6/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  OverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Universal
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  ApproximateEntropy
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+  0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Serial
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Serial
+ 93 101  94 111  95  86 111 127  92  90  0.108150    989/1000    LinearComplexity
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 980 for a
+sample size = 1000 binary sequences.
+
+The minimum pass rate for the random excursion (variant) test is undefined.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
